@@ -1,0 +1,16 @@
+{
+	"project_id" : "",
+	"app_folder" : "fcwebmapper",
+	"name" : "fCWebMapper",
+	"description" : "",
+	"version" : "0.0.0",
+	"manifest_version" : 1,
+	"icons" : {
+		"128" : "logo.png"
+	},
+	"app" : {
+		"launch" : "index.html",
+		"dataTypes" : [],
+		"queryParameters": ""
+	}
+}

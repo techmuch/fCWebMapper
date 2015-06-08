@@ -1,0 +1,9 @@
+{
+  "name": "fCWebMapper",
+  "version": "0.0.0",
+  "main": "index.html",
+  "window": {
+        "frame": true,
+        "toolbar": false
+    }
+}
